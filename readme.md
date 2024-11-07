@@ -1,0 +1,1 @@
+This repo contains config for VSC
